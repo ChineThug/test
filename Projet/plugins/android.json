@@ -6,8 +6,8 @@
   "config_munge": {
     "files": {}
   },
-  "installed_plugins": {
-    "com.bunkerpalace.cordova.YoutubeVideoPlayer": {
+  "installed_plugins": { 
+    "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "io.cordova.hellocordova"
     }
   },
